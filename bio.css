@@ -1,11 +1,12 @@
-body {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh; 
-    font-family: 'Times New Roman', Times, serif;
-    min-width: 300px;
-    max-width: 1300px;
-    align-items: center;
+@media screen (min-width: 300px;) and (max-width: 1300px;){
+    body {
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+            font-family: 'Times New Roman', Times, serif;
+            width: 90%;
+    }
+    
 }
 h1{
     text-align: center;
@@ -37,9 +38,14 @@ div h2{
     font-size: xx-large;
     text-shadow: 1px 1px;
     justify-content: center;
+    margin-bottom: 5px;
+}
+#bio{
+    margin-top: 10px;
 }
 #why{
     margin-left: 35px;
+    margin-bottom: 10px;
     font-size: x-large;
     color: rgba(94, 89, 94, 0.979);
     font-weight: 600;
@@ -49,6 +55,8 @@ p{
     font-size: larger;
     margin-left: 20px;
     margin-right: 50px;
+    margin: 0px;
+    margin-bottom: 15px;
 }
 .card h3{
     padding-bottom: 0px;
@@ -106,7 +114,6 @@ p{
 .mor{
     display: flex;
     gap: 30px;
-
 }
 .mor{
     width:915px ;
@@ -130,4 +137,7 @@ p{
     gap: 30px;
     width: 500px;
     height: 350px;
+}
+#ct5{
+    color: rgb(134, 180, 174);
 }
