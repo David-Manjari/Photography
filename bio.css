@@ -15,10 +15,14 @@ h1{
     display: flex;
     font-size: x-large;
     font-weight: 700;
-    text-align: center;
-    list-style-type: none;
-    
+    justify-content: center;
+    list-style-type: bone;
 }
 .navbar a{
     text-decoration: none;
+}
+.navbar ul{
+    list-style-type: none;
+    display: flex;
+    gap: 50px; 
 }
