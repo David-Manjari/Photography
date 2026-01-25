@@ -3,6 +3,9 @@ body {
     flex-direction: column;
     min-height: 100vh; 
     font-family: 'Times New Roman', Times, serif;
+    min-width: 300px;
+    max-width: 1300px;
+    align-items: center;
 }
 h1{
     text-align: center;
@@ -102,9 +105,29 @@ p{
 }
 .mor{
     display: flex;
+    gap: 30px;
 
 }
+.mor{
+    width:915px ;
+    display: flex;
+    border-radius: 30px;
+    flex-wrap: wrap;
+    padding:10px;
+    border: 8px solid rgba(94, 89, 94, 0.979);
+    background-color: bisque;
+    justify-content: ;
+}
 .mor img{
-    width: 200px;
-    height: 200px;
+    gap: 30px;
+    width: 350px;
+    height: 350px;
+    border-radius: 20px;
+}
+#wild{
+    align-items: center;
+    display: flex;
+    gap: 30px;
+    width: 500px;
+    height: 350px;
 }
