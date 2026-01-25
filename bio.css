@@ -52,3 +52,26 @@ text-align: center;
 font-size: x-large;
 color: dimgray;
 }
+.card {
+    display: flex;
+    width:fit fit-content;
+    max-height: 600px;
+}
+.card .Nature img{
+    display: inline-flex;
+    gap: 25px;
+    height: 500px;
+    width: 500px;
+}
+.card .Nuture{
+    gap: 25px;
+    height: 500px;
+    width: 400px;
+}
+.card img{
+    gap: 25px;
+    display: flex;
+    max-height:1200px ;
+    max-width: 600px;
+    gap: 25px;
+}
