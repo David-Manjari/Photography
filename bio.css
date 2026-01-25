@@ -29,14 +29,26 @@ h1{
 }
 div h2{
     margin-left: 50px;
-        color: rgb(94, 92, 92);
-        font-weight: 900;
-        font-size: xx-large;
-        text-shadow: 1px 1px;
+    color: rgb(94, 92, 92);
+    font-weight: 900;
+    font-size: xx-large;
+    text-shadow: 1px 1px;
+    justify-content: center;
 }
 #why{
     margin-left: 35px;
     font-size: x-large;
     color: rgba(94, 89, 94, 0.979);
     font-weight: 600;
+}
+p{
+    text-align: justify;
+    font-size: larger;
+    margin-left: 20px;
+    margin-right: 50px;
+}
+.card h3{
+text-align: center;
+font-size: x-large;
+color: dimgray;
 }
