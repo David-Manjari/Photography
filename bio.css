@@ -29,8 +29,14 @@ h1{
 }
 div h2{
     margin-left: 50px;
-        color: rgb(34, 32, 32);
+        color: rgb(94, 92, 92);
         font-weight: 900;
         font-size: xx-large;
         text-shadow: 1px 1px;
+}
+#why{
+    margin-left: 35px;
+    font-size: x-large;
+    color: rgba(94, 89, 94, 0.979);
+    font-weight: 600;
 }
