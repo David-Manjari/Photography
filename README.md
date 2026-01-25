@@ -13,3 +13,13 @@ This shows the progress attained in WebDev class by creating a fully styled phot
 4. Open bio.html on a browser.
 
 ## STRUCTURE
+* bio.html - main executable
+* bio.css - main styling
+* /Images - folder containing images
+* home.html - html file containing homepage
+## FUTURE IMPROVEMENTS
+- Add interactivity to the website
+- improve responsiveness
+- Add more photogtraphs for the user to view
+## AUTHOR
+David Manjari
