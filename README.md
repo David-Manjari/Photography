@@ -21,5 +21,8 @@ This shows the progress attained in WebDev class by creating a fully styled phot
 - Add interactivity to the website
 - improve responsiveness
 - Add more photogtraphs for the user to view
-## AUTHOR
-David Manjari
+## License
+
+© 2026 David Manjari. All rights reserved.
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

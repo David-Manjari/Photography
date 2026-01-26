@@ -160,6 +160,25 @@ h5{
     font-size: larger;
     margin-bottom: 0px;
 }
+.more h4{
+    margin-left: 30px;
+    font-size: larger;
+    font-weight: 600;
+}
+.M-img a{
+    text-decoration: none;
+    color: rgb(21, 65, 104);
+}
+a:visited{
+    color: aliceblue;
+}
+a:hover{
+    color: green;
+}
+.M-img ol{
+    list-style-type: decimal;
+    color: rgb(21, 65, 104);
+}
 ol{
     list-style-type:none;
     margin-top: 10px;
