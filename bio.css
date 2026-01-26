@@ -1,12 +1,13 @@
-@media screen (min-width: 300px;) and (max-width: 1300px;){
+@media screen {
     body {
             display: flex;
             flex-direction: column;
             min-height: 100vh;
             font-family: 'Times New Roman', Times, serif;
             width: 90%;
+            min-width: 300px; 
+            max-width: 1300px; 
     }
-    
 }
 body{
     background-color: rgb(179, 214, 200);
@@ -200,6 +201,9 @@ button{
     border-radius: 10px;
     height: 25px;
     padding: 5px;
+}
+button:hover{
+    color: green;
 }
 .M-img ol{
     list-style-type: decimal;
