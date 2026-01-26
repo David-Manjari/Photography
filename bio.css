@@ -8,6 +8,9 @@
     }
     
 }
+body{
+    background-color: rgb(179, 214, 200);
+}
 h1{
     text-align: center;
     color: darkslategrey;
@@ -21,6 +24,7 @@ h1{
     font-weight: 700;
     justify-content: center;
     list-style-type: bone;
+    background-color: rgb(182, 223, 209);
 }
 .navbar a{
     text-decoration: none;
@@ -30,6 +34,9 @@ h1{
     list-style-type: none;
     display: flex;
     gap: 50px; 
+}
+a:hover{
+ color: darkgrey;
 }
 div h2{
     margin-left: 50px;
@@ -72,9 +79,13 @@ p{
 .card {
     display: flex;
     gap:40px;
+   
+    border-radius: 30px;
     margin: 10px;
+    width: 1100px;
     padding-bottom: 20px;
     margin-bottom: 30px;
+    
 }
 .card .Nature{
     display: flex;
@@ -86,7 +97,7 @@ p{
     gap: 20px;
     border-radius: 30px;
     border: 5px solid rgb(133, 131, 131);
-
+    background-color: rgb(26, 27, 29);
 }
 .card .Nature .nat-img{
     display: flex;
@@ -104,7 +115,11 @@ p{
     justify-items: center;
     border: 5px solid rgb(133, 131, 131);
     border-radius: 30px;
+    background-color: rgb(101, 117, 100);
 
+}
+.card .Nuture h3{
+    color: rgb(221, 220, 210);
 }
 .card .Nuture img{
     width: 500;
@@ -123,7 +138,6 @@ p{
     padding:10px;
     border: 8px solid rgba(94, 89, 94, 0.979);
     background-color: bisque;
-    justify-content: ;
 }
 .mor img{
     gap: 30px;
@@ -140,4 +154,24 @@ p{
 }
 #ct5{
     color: rgb(134, 180, 174);
+}
+h5{
+    padding-left: 50px;
+    font-size: larger;
+    margin-bottom: 0px;
+}
+ol{
+    list-style-type:none;
+    margin-top: 10px;
+    font-weight: 800;
+}
+ol li{
+    padding-bottom: 10px;
+}
+footer{
+    text-align: center;
+    font-weight: bolder;
+    font-size: xx-large;
+    text-shadow: 1px 0.5px;
+    color: black;
 }
