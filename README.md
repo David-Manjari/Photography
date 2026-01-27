@@ -1,18 +1,22 @@
-# PHOTOGRAPHY WEBSITE
+# gotPHOTOGRAPHY WEBSITE
 ## ABOUT
 This shows the progress attained in WebDev class by creating a fully styled photography website from scratch and uploading it on github.
-## FEATURES
+## TECHNOLOGIES USED
+- CSS
+- HTML
+- EDITORS - VS CODE
+### FEATURES
 - Introduction
 - Biography
 - Images
 
-## SETUP
-1. Visit my github page using the given link.
+### SETUP
+1. Visit my github page using the given link 
 2. Clone the repository.
 3. Open the project folder.
 4. Open bio.html on a browser.
 
-## STRUCTURE
+### STRUCTURE
 * bio.html - main executable
 * bio.css - main styling
 * /Images - folder containing images
