@@ -11,7 +11,7 @@ This shows the progress attained in WebDev class by creating a fully styled phot
 - Images
 
 ### SETUP
-1. Visit my github page using the given link 
+1. Visit my github page using the given link https://github.com/David-Manjari/Photography.git
 2. Clone the repository.
 3. Open the project folder.
 4. Open bio.html on a browser.
